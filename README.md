@@ -1,5 +1,5 @@
 # Big Game Survey 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Ricardobhte/Readme/blob/main/LICENSE) 
 
 # Sobre o projeto
 
@@ -72,6 +72,7 @@ yarn start
 
 # Autor
 
-Wellington Mazoni de Andrade
+Ricardo Camillo Pereira
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/ricardo-camillo-pereira/
+ricardobhte@hotmail.com
