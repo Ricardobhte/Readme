@@ -1,7 +1,34 @@
-# Big Game Survey 
+# Alguns cases de sucesso na minha carreira
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Ricardobhte/Readme/blob/main/LICENSE) 
 
-# Sobre o projeto
+# CEMIG
+
+Realizar vários projetos na CEMIG, a onde faço parte de um time multifuncional, onde somos acionados para manutenções corretivas e evolutivas nos sistemas legados da Empresa. Tais como CRM, barramento de micros serviços e canais virtuais voltado ao cliente (APP e WEB). 
+Participar em reuniões de planejamento e de novos projetos e sustentação ao ambiente produtivo da empresa. 
+Resolver e apoiar em soluções criativas, compartilhando conhecimentos e na solução de melhorias no dia a dia. Análise de dados (BI) utilizando a ferramenta Power-BI, para elaboração de painéis automatizados com o foco na produtividade e eficiência na área de TI e Relacionamento a Clientes.
+
+## Agência Virtual (CemigAtende)
+Criação do novo portal para atendimento ao cliente segmentado em diversos público alvo, ex. varejo, empresa e poder público.
+
+## APP (CemigAtende)
+
+## APP (Recenseador - Benefício Tarifário)
+Criação de aplicativo a ser utilizado na realização de visitas técnicas focadas em aspectos comerciais (Coleta de dados cadastrais, documentação, atividade comprovadamente exercida e predominância da carga), atendendo ao Art. 27 e 145 da REN 414.
+
+## SMS (Cemig Torpedo)
+
+## Totem (Auto Atendimento)
+
+## Paineis em Power BI
+
+### Cemig Atende
+### Chamados TI
+
+# UNFORTE SEGUROS
+
+Participa ativamente na tomadas de decisão em toda área de TI, tanto em software como hardware, criar políticas de segurança da informação e especificação e estruturação nos servidores de acesso nos servidores internos e externos. Políticas de backups e segurança de dados. Gerenciava projetos na área de tecnologia, com metodologias ágeis e scrunn
+
+# TRANSPORTADORA RAPIDO RESENDE
 
 https://wmazoni-sds1.netlify.app
 
