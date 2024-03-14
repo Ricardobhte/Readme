@@ -9,6 +9,7 @@ Resolver e apoiar em soluções criativas, compartilhando conhecimentos e na sol
 
 ## Agência Virtual (CemigAtende)
 Criação do novo portal para atendimento ao cliente segmentado em diversos público alvo, ex. varejo, empresa e poder público.
+![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png)
 
 ## APP (CemigAtende)
 
