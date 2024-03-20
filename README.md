@@ -17,36 +17,64 @@ Criação do novo portal para atendimento ao cliente segmentado em diversos púb
 Criação de aplicativo a ser utilizado na realização de visitas técnicas focadas em aspectos comerciais (Coleta de dados cadastrais, documentação, atividade comprovadamente exercida e predominância da carga), atendendo ao Art. 27 e 145 da REN 414.
 
 ## SMS (Cemig Torpedo)
+Participei da equipe do projeto com o papel Scrum Master de um chat bot via SMS inteligente em 2011, conf. publicação (https://www.em.com.br/app/noticia/economia/2011/12/06/internas_economia,265893/consumidor-que-ficar-sem-luz-pode-solicitar-cemig-por-mensagem-de-celular.shtml) onde ele guardava as ultimas informações de interação com o usuário, quando o mesmo entrava novamente no sistema ele ja pré selecionar os serviços desejados
 
 ## Totem (Auto Atendimento)
 
 ## Paineis em Power BI
-
 ### Cemig Atende
+![AGV](https://github.com/Ricardobhte/Readme/blob/main/imagens/Power-bi%20AGV.jpg)
 ### Chamados TI
+![Backlog TI](https://github.com/Ricardobhte/Readme/blob/main/imagens/Power-bi%20TI.jpg)
 
 # UNFORTE SEGUROS
 
-Participa ativamente na tomadas de decisão em toda área de TI, tanto em software como hardware, criar políticas de segurança da informação e especificação e estruturação nos servidores de acesso nos servidores internos e externos. Políticas de backups e segurança de dados. Gerenciava projetos na área de tecnologia, com metodologias ágeis e scrunn
+## Tomada de Decisão em Software e Hardware
+Análise de Requisitos: Realize uma avaliação detalhada das necessidades atuais e futuras do negócio em termos de software e hardware, envolvendo stakeholders para entender suas necessidades e expectativas.
+Pesquisa e Avaliação: Investigue as opções de tecnologia disponíveis que atendam às necessidades identificadas, considerando fatores como desempenho, escalabilidade, custo e suporte.
+Decisão Baseada em Evidências: Use uma abordagem baseada em dados para tomar decisões, incluindo análises de custo-benefício, testes de desempenho e referências de casos de uso semelhantes.
+Documentação e Justificativa: Documente as decisões tomadas e forneça justificativas claras, baseadas em dados e análises, para todas as partes interessadas.
+## Políticas de Segurança da Informação
+Avaliação de Risco: Conduza avaliações regulares de risco para identificar vulnerabilidades potenciais na infraestrutura de TI e nos processos de negócios.
+Desenvolvimento de Políticas: Elabore políticas de segurança da informação abrangentes que cubram todos os aspectos, desde o acesso do usuário e controle de dados até a resposta a incidentes e recuperação de desastres.
+Treinamento e Conscientização: Garanta que todos os membros da equipe recebam treinamento regular sobre as políticas de segurança e as melhores práticas para manter a conscientização e a conformidade.
+Monitoramento e Revisão: Implemente ferramentas e processos para monitorar continuamente a segurança da rede e dos sistemas, revisando e atualizando as políticas conforme necessário.
+## Especificação e Estruturação de Servidores
+Planejamento de Capacidade: Faça uma previsão da demanda futura e planeje a capacidade dos servidores internos e externos para garantir escalabilidade e desempenho.
+Arquitetura de Rede: Desenvolva uma arquitetura de rede robusta que suporte tanto os servidores internos quanto os acessíveis externamente, priorizando a segurança e a eficiência.
+Implementação de Segurança: Aplique camadas de segurança, incluindo firewalls, sistemas de detecção de intrusão e criptografia para proteger os servidores contra ameaças externas e internas.
+Manutenção e Atualizações: Estabeleça uma rotina de manutenção para os servidores, incluindo atualizações regulares de software e hardware, para manter a infraestrutura atualizada e segura.
+## Políticas de Backup e Segurança de Dados
+Estratégia de Backup: Defina uma estratégia de backup abrangente que inclua backups regulares, armazenamento seguro dos dados de backup e testes frequentes de recuperação de dados.
+Classificação de Dados: Implemente uma política de classificação de dados para identificar dados críticos e sensíveis que necessitam de níveis mais altos de proteção e backups mais frequentes.
+Recuperação de Desastres: Desenvolva um plano de recuperação de desastres detalhado que especifique as etapas e procedimentos para a recuperação rápida de dados após qualquer incidente de perda de dados.
+## Gerenciamento de Projetos com Metodologias Ágeis e Scrum
+Planejamento Ágil: Adote uma abordagem ágil para o planejamento de projetos, dividindo o trabalho em iterações curtas (sprints) e revisando regularmente o progresso e as prioridades.
+Papéis e Responsabilidades: Defina claramente os papéis dentro da equipe ágil, incluindo o Product Owner, Scrum Master e a equipe de desenvolvimento, garantindo que todos compreendam suas responsabilidades.
 
 # TRANSPORTADORA RAPIDO RESENDE
-
-https://wmazoni-sds1.netlify.app
-
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
-
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
-
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
-
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
-
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+## Tomada de Decisão em Software e Hardware
+Análise de Requisitos: Realize uma avaliação detalhada das necessidades atuais e futuras do negócio em termos de software e hardware, envolvendo stakeholders para entender suas necessidades e expectativas.
+Pesquisa e Avaliação: Investigue as opções de tecnologia disponíveis que atendam às necessidades identificadas, considerando fatores como desempenho, escalabilidade, custo e suporte.
+Decisão Baseada em Evidências: Use uma abordagem baseada em dados para tomar decisões, incluindo análises de custo-benefício, testes de desempenho e referências de casos de uso semelhantes.
+Documentação e Justificativa: Documente as decisões tomadas e forneça justificativas claras, baseadas em dados e análises, para todas as partes interessadas.
+## Políticas de Segurança da Informação
+Avaliação de Risco: Conduza avaliações regulares de risco para identificar vulnerabilidades potenciais na infraestrutura de TI e nos processos de negócios.
+Desenvolvimento de Políticas: Elabore políticas de segurança da informação abrangentes que cubram todos os aspectos, desde o acesso do usuário e controle de dados até a resposta a incidentes e recuperação de desastres.
+Treinamento e Conscientização: Garanta que todos os membros da equipe recebam treinamento regular sobre as políticas de segurança e as melhores práticas para manter a conscientização e a conformidade.
+Monitoramento e Revisão: Implemente ferramentas e processos para monitorar continuamente a segurança da rede e dos sistemas, revisando e atualizando as políticas conforme necessário.
+## Especificação e Estruturação de Servidores
+Planejamento de Capacidade: Faça uma previsão da demanda futura e planeje a capacidade dos servidores internos e externos para garantir escalabilidade e desempenho.
+Arquitetura de Rede: Desenvolva uma arquitetura de rede robusta que suporte tanto os servidores internos quanto os acessíveis externamente, priorizando a segurança e a eficiência.
+Implementação de Segurança: Aplique camadas de segurança, incluindo firewalls, sistemas de detecção de intrusão e criptografia para proteger os servidores contra ameaças externas e internas.
+Manutenção e Atualizações: Estabeleça uma rotina de manutenção para os servidores, incluindo atualizações regulares de software e hardware, para manter a infraestrutura atualizada e segura.
+## Políticas de Backup e Segurança de Dados
+Estratégia de Backup: Defina uma estratégia de backup abrangente que inclua backups regulares, armazenamento seguro dos dados de backup e testes frequentes de recuperação de dados.
+Classificação de Dados: Implemente uma política de classificação de dados para identificar dados críticos e sensíveis que necessitam de níveis mais altos de proteção e backups mais frequentes.
+Recuperação de Desastres: Desenvolva um plano de recuperação de desastres detalhado que especifique as etapas e procedimentos para a recuperação rápida de dados após qualquer incidente de perda de dados.
+## Gerenciamento de Projetos com Metodologias Ágeis e Scrum
+Planejamento Ágil: Adote uma abordagem ágil para o planejamento de projetos, dividindo o trabalho em iterações curtas (sprints) e revisando regularmente o progresso e as prioridades.
+Papéis e Responsabilidades: Defina claramente os papéis dentro da equipe ágil, incluindo o Product Owner, Scrum Master e a equipe de desenvolvimento, garantindo que todos compreendam suas responsabilidades.
 
 # Tecnologias utilizadas
 ## Back end
@@ -60,47 +88,21 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 - React Native
 - Apex Charts
 - Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
-
-# Como executar o projeto
-
-## Back end
-Pré-requisitos: Java 11
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
-
-## Front end web
-Pré-requisitos: npm / yarn
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
-```
-
+## Ferramentas de gestão e projetos que trabalho
+- Power-BI
+- Trello
+- Kanban
+- Microsoft Project
+- GitLab
+- Jira
+- SQL
+- Designer de UX/UI
+- Tech Lead
+- AWS
+  
 # Autor
-
 Ricardo Camillo Pereira
+ricardobhte@hotmail.com
 
 https://www.linkedin.com/in/ricardo-camillo-pereira/
-ricardobhte@hotmail.com
+
